@@ -12,11 +12,17 @@ This project allows you to store information about employees, managers, departme
 
 - [Usage Information](#Usage-Information)
 
+- [Walkthrough](#Walkthrough)
+
 - [License](#License)
 
 # Usage Information
 
 Running 'node app' in your integrated terminal will start the program. From there, the user is guided by the UI. Pressing Cntrl C will end the application.
+
+# Walkthrough
+
+This video provides a short example/walkthrough: https://drive.google.com/file/d/1boAjUS8ERCyejpy-LGfBsUuF_L7XmWVB/view
 
 # License
     
